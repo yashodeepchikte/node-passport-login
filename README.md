@@ -1,5 +1,6 @@
 # node-passport-login
-Node.js login, registration and access control using Express and Passport
+Node.js login, registration and access control using Express and Passport<br>
+<code>https://still-chamber-72615.herokuapp.com/users/login </code>
 
 # Usage
 <code>$ npm install </code>
