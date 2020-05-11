@@ -11,4 +11,6 @@ $ npm run dev <br />
 </code>
 
 # MongoDB
-Open "config/keys.js" and add your MongoDB URI, local or Atlas
+Open "config/keys.js" and add your MongoDB URI, local or Atlas <br />
+
+bcrypt is currently being used for hashing the Passwords before storing them into the database
